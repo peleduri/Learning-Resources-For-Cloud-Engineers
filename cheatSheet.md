@@ -40,7 +40,7 @@ kubectl top node
 kubectl top pod
 
 # Get resource usage for a given pod	
-kubectl top <podname> --containers
+kubectl top -n <my-namespace> <podname> --containers
 
 # Delete pod by force	
 kubectl delete <pod-name> -n <my-namespace> --grace-period=0 --force
