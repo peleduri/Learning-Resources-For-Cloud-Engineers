@@ -3,21 +3,64 @@
 ## k8s:
 
 ```bash
-kubectl get pods -n
-kubectl logs -f  -n
+# Watch/get pods 
+kubectl get pod -o wide -n <my-namespace> --watch
+
+# show logs 
+kubectl logs -f  -n <my-namespace>
+
+# Get pod info	
+kubectl describe pod -n <my-namespace>
+
+# Get all services	
+kubectl get service --all-namespaces
+
+# Get resources with json output
+kubectl get pods --all-namespaces -o json
+
+# Start a temporary pod for testing
+kubectl run --rm -i -t --image=alpine test-$RANDOM -- sh
+
+# Watch pods	
+kubectl get pods -n <my-namespace> --watch
+
+# Get pods sorted by restart count	
+kubectl get pods –sort-by=’.status.containerStatuses[0].restartCount’
+
+# List pods and images	
+kubectl get pods -o=’custom-columns=PODS:.metadata.name,Images:.spec.containers[*].image’
+
+# Get node resource usage	
+kubectl top node
+
+# Get pod resource usage	
+kubectl top pod
+
+# Get resource usage for a given pod	
+kubectl top <podname> --containers
+
+# Delete pod by force	
+kubectl delete <pod-name> -n <my-namespace> --grace-period=0 --force
+
+# Delete resources under a namespace	
+kubectl -n my-ns delete po,svc --all
+
+# Delete persist volumes
+kubectl delete pvc -n <my-namespace> 
+
 
 ```
 
 ## docker
 
 ```bash
-kill all running containers
+# kill all running containers
 docker kill $(docker ps -q)
 
-delete all stopped containers 
+# delete all stopped containers 
 docker rm $(docker ps -a -q)
 
-delete all images
+# delete all images
 docker rmi $(docker images -q)
 ```
 
@@ -47,10 +90,11 @@ docker rmi $(docker images -q)
 
 ```
 
-* Pushing the squashed commit, If the commits have been pushed to the remote:
+```bash
+# Pushing the squashed commit, If the commits have been pushed to the remote:
 git push origin +name-of-branch
-The plus sign forces the remote branch to accept your rewritten history, otherwise, you will end up with divergent branches
-If the commits have NOT yet been pushed to the remote:
+# The plus sign forces the remote branch to accept your rewritten history, otherwise, you will end up with divergent branches
+# If the commits have NOT yet been pushed to the remote:
 git push origin name-of-branch
 ```
 
