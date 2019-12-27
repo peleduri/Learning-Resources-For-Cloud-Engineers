@@ -108,14 +108,3 @@ git fetch && git rebase origin/master OR git pull --rebase origin master
 To avoid fast forward 
 git push --force-with-lease
 ```
-
-## linux
-
-```bash
-find . -mtime -1 -type f |xargs tar cvzf file.tar
-ntpq -p
-tcpdump -n -S -s 0 -A 'tcp dst port 80'
-tar -czvf /tmp/logs.tar.gz logs/
-rsync -avzPh origin:destination
-:%s/foo/bar/g
-```
