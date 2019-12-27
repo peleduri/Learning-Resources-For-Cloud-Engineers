@@ -30,3 +30,5 @@
 ## Videos:
 
 - [Video - Open Source Security: Reverse Proxies (Nginx)](https://youtu.be/2fL8Otb9mTE)
+
+- [Video - Make Ingress-Nginx Work for you, and the Community - Fernando Diaz, IBM (Any Skill Level)](https://youtu.be/GDm-7BlmPPg)

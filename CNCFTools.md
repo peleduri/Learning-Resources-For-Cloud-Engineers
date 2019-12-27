@@ -54,3 +54,11 @@ The Cloud Native Computing Foundation builds sustainable ecosystems and fosters 
 - [Video - From Zero to DevOps Superhero: The Container Edition – Jessica Deen, Microsoft](https://youtu.be/cFoUe4DQrpc)
 
 - [Video - swampUP 2018 | Kubernetes is hard! Lessons learned taking JFrog apps to Kubernetes - Eldad Assis](https://www.youtube.com/watch?v=o4PRs0gpl18&t=973s)
+
+- [Video - Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO](https://youtu.be/90kZRyPcRZw)
+
+- [Video - Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO](https://youtu.be/vQX5nokoqrQ)
+
+- [Video - Keynote: Anatomy of a Production Kubernetes Outage - Oliver Beattie, Head of Engineering, Monzo Bank](https://youtu.be/OUYTNywPk-s)
+
+- [Video - Persistent Storage with Kubernetes in Production - Which Solution and Why? [I] - Cheryl Hung](https://youtu.be/hqE5c5pyfrk)
