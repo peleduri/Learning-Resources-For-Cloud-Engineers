@@ -11,6 +11,9 @@ This is a repository with a collection of various useful learning resources for 
 
 - [The Cloud Native Resources](https://github.com/peleduri/Learning-Resources-For-Cloud-Engineers/blob/master/CNCF.md#the-cloud-native-resources)
 
+- [The Cheat Sheet Resources](https://github.com/peleduri/Learning-Resources-For-Cloud-Engineers/blob/master/cheatSheet.md#the-cheat-sheet-resources)
+
+
 - [Tech News](https://github.com/peleduri/Learning-Resources-For-Cloud-Engineers/blob/master/TechNews.md#tech-news)
 
 
