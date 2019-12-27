@@ -2,7 +2,7 @@
 
 ## Guides:
 
-- [Guide - linuxcommand](http://linuxcommand.org/index.php)
+- [Guide - linuxcommand](http://linuxcommand.org/lc3_wss0010.php)
 
 - [Guide - Linux Command Line Cheat Sheet by DaveChild](https://www.cheatography.com/davechild/cheat-sheets/linux-command-line/)
 
