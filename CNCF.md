@@ -1,11 +1,15 @@
 # The Cloud Native Resources
 
 - [The Cloud Native Computing Foundation](https://www.cncf.io/)
+- [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+
 
 ## What is CNCF?
 The Cloud Native Computing Foundation builds sustainable ecosystems and fosters communities to support the growth and health of cloud native open source software.
 
 ## Guides:
+
+- [Guide - Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 
 - [Guide - Vagrant - great tool to start learning with linux](https://coolestguidesontheplanet.com/vagrant-getting-started-on-macos/)
 
@@ -32,6 +36,8 @@ The Cloud Native Computing Foundation builds sustainable ecosystems and fosters 
 - [Article - How a Production Outage Was Caused Using Kubernetes Pod Priorities](https://grafana.com/blog/2019/07/24/how-a-production-outage-was-caused-using-kubernetes-pod-priorities/)
 
 ## Tutorials:
+
+- [Tutorial - Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes#!)
 
 - [Tutorial - katacoda - Docker](https://www.katacoda.com/courses/docker)
 

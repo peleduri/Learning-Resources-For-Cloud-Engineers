@@ -20,6 +20,8 @@
 
 - [Guide - Linux Kali - (Security)](http://www.kalitut.com/)
 
+- [Guide - Vagrant - great tool to start learning with linux](https://coolestguidesontheplanet.com/vagrant-getting-started-on-macos/)
+
 ## Tutorials:
 
 - [Tutorial - UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
