@@ -66,3 +66,9 @@ The Cloud Native Computing Foundation builds sustainable ecosystems and fosters 
 - [Video - Persistent Storage with Kubernetes in Production - Which Solution and Why? [I] - Cheryl Hung](https://youtu.be/hqE5c5pyfrk)
 
 - [Video - Keynote: How Spotify Accidentally Deleted All its Kube Clusters with No User Impact - David Xia](https://youtu.be/ix0Tw8uinWs)
+
+- [Video - Manage your Kubernetes Applications with JFrog's Artifactory](https://www.youtube.com/watch?v=5XzdFO9Dbck)
+
+- [Video - How the Department of Defense Moved to Kubernetes and Istio - Nicolas Chaillan](https://youtu.be/YjZ4AZ7hRM0)
+
+- [Video - RubyConf 2019 - Elasticsearch 5 or and Bust by Molly Struve](https://youtu.be/IiNPLJOZ0Kw)
