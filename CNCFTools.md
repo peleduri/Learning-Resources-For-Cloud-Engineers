@@ -21,7 +21,7 @@ The Cloud Native Computing Foundation builds sustainable ecosystems and fosters 
 
 - [Tutorial - Jenkins Tutorial for Beginners: Learn in 3 Day](https://www.guru99.com/jenkins-tutorial.html)
 
-- [Tutorial - Python Tutorial)](https://www.w3schools.com/python/default.asp)
+- [Tutorial - Python Tutorial](https://www.w3schools.com/python/default.asp)
 
 - [Tutorial - AWS tutorial](https://www.guru99.com/aws-tutorial.html)
 
