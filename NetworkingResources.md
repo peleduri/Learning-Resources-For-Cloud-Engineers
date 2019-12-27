@@ -18,6 +18,7 @@
 - [Tool - NGINX configuration generator](https://www.digitalocean.com/community/tools/nginx)
 
 - [Tool - Networking Tools Poster](https://wizardzines.com/networking-tools-poster.pdf)
+
 ## Articles:
 
 - [Article - Nginx : Security configuration tips](https://medium.com/@nbeguier/nginx-security-configuration-tips-557c35e0d75b)
