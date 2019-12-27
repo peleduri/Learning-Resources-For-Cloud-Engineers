@@ -1,6 +1,7 @@
 # Learning Resources For Cloud Engineers
 
-This repository hosts probably the best learning resources in the world for Cloud Engineers
+
+This is a repository with a collection of various useful learning resources for Cloud Engineers
 
 
 - [General](https://github.com/peleduri/Learning-Resources-For-Cloud-Engineers/blob/master/General.md#general)
