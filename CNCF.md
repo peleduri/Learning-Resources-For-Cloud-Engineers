@@ -1,4 +1,4 @@
-# Cloud Native Tools Resources
+# The Cloud Native Resources
 
 - [The Cloud Native Computing Foundation](https://www.cncf.io/)
 
