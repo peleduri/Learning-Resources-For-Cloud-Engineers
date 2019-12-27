@@ -12,7 +12,6 @@
 
 - [Guide - LEMP Stack Resources and Q&A](https://lemp.io/)
 
-
 - [Guide - The Biggest Online Tutorials Library, It's all Free](https://www.tutorialspoint.com/index.htm)
 
 - [Guide - Common types of application security attacks](https://www.owasp.org/index.php/Category:Attack)
