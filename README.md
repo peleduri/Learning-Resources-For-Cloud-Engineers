@@ -9,7 +9,7 @@ This is a repository with a collection of various useful learning resources for 
 
 - [Linux Resources](https://github.com/peleduri/Learning-Resources-For-Cloud-Engineers/blob/master/LinuxResources.md#linux-resources)
 
-- [Cloud Native Tools Resources](https://github.com/peleduri/Learning-Resources-For-Cloud-Engineers/blob/master/CNCFTools.md#cloud-native-tools-resources)
+- [The Cloud Native Resources](https://github.com/peleduri/Learning-Resources-For-Cloud-Engineers/blob/master/CNCF.md#the-cloud-native-resources)
 
 - [Tech News](https://github.com/peleduri/Learning-Resources-For-Cloud-Engineers/blob/master/TechNews.md#tech-news)
 
