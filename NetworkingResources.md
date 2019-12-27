@@ -13,6 +13,8 @@
 
 - [Guide - Kubernetes Networking Guide for Beginners](https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-networking-guide-beginners.html)
 
+## Tools:
+
 - [Tool - NGINX configuration generator](https://www.digitalocean.com/community/tools/nginx)
 
 - [Tool - Networking Tools Poster](https://wizardzines.com/networking-tools-poster.pdf)
