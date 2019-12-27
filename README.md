@@ -3,7 +3,7 @@
 This repository hosts probably the best learning resources in the world for Cloud Engineers
 
 
-- [General Articles](https://github.com/peleduri/Learning-Resources-For-Cloud-Engineers/blob/master/GeneralArticles.md#general-articles)
+- [General](https://github.com/peleduri/Learning-Resources-For-Cloud-Engineers/blob/master/General.md#general)
 
 - [Linux Resources](https://github.com/peleduri/Learning-Resources-For-Cloud-Engineers/blob/master/LinuxResources.md#linux-resources)
 
