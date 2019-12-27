@@ -62,3 +62,5 @@ The Cloud Native Computing Foundation builds sustainable ecosystems and fosters 
 - [Video - Keynote: Anatomy of a Production Kubernetes Outage - Oliver Beattie, Head of Engineering, Monzo Bank](https://youtu.be/OUYTNywPk-s)
 
 - [Video - Persistent Storage with Kubernetes in Production - Which Solution and Why? [I] - Cheryl Hung](https://youtu.be/hqE5c5pyfrk)
+
+- [Video - Keynote: How Spotify Accidentally Deleted All its Kube Clusters with No User Impact - David Xia](https://youtu.be/ix0Tw8uinWs)
