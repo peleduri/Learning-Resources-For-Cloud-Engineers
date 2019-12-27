@@ -8,18 +8,18 @@
 
 - [Guide - Unix/Linux Command Reference](https://files.fosswire.com/2007/08/fwunixref.pdf)
 
-- [Guide - The Bash Hackers Wiki)](https://wiki.bash-hackers.org/)
+- [Guide - The Bash Hackers Wiki](https://wiki.bash-hackers.org/)
 
 - [Guide - LEMP Stack Resources and Q&A](https://lemp.io/)
 
 
 - [Guide - The Biggest Online Tutorials Library, It's all Free](https://www.tutorialspoint.com/index.htm)
 
-- [Guide - This category is for tagging common types of application security attacks.](https://www.owasp.org/index.php/Category:Attack)
+- [Guide - Common types of application security attacks](https://www.owasp.org/index.php/Category:Attack)
 
-- [Guide - crontab guru](https://crontab.guru/)
+- [Guide - Crontab Guru](https://crontab.guru/)
 
-- [Guide - Linux kali - (security)](http://www.kalitut.com/)
+- [Guide - Linux Kali - (Security)](http://www.kalitut.com/)
 
 ## Tutorials:
 
@@ -31,5 +31,6 @@
 
 - [Video - Introduction to Linux](https://youtu.be/_gCwCOhMcog)
 
+- [Video -  Linux Administration Tutorial](https://youtu.be/v_1zB2WNN14)
 
 
