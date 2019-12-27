@@ -30,6 +30,9 @@ kubectl get pods –sort-by=’.status.containerStatuses[0].restartCount’
 # List pods and images	
 kubectl get pods -o=’custom-columns=PODS:.metadata.name,Images:.spec.containers[*].image’
 
+# Get pod hpa info
+kubectl describe hpa -n <my-namespace>
+
 # Get node resource usage	
 kubectl top node
 
