@@ -25,6 +25,8 @@ The Cloud Native Computing Foundation builds sustainable ecosystems and fosters 
 
 - [Article - K8s scheduling — deep dive](https://blog.usejournal.com/k8s-infrastructure-what-you-should-consider-1c01a2109e82)
 
+- [Article - How a Production Outage Was Caused Using Kubernetes Pod Priorities](https://grafana.com/blog/2019/07/24/how-a-production-outage-was-caused-using-kubernetes-pod-priorities/)
+
 ## Tutorials:
 
 - [Tutorial - katacoda - Docker](https://www.katacoda.com/courses/docker)
