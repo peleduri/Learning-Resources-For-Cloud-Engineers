@@ -15,6 +15,16 @@ The Cloud Native Computing Foundation builds sustainable ecosystems and fosters 
 
 - [Guide - Cloud Native Overview](https://ibm-cloud-architecture.github.io/learning-cloudnative-101/web/1.0.0/Cloud_Native_Module/Cloudnative_Overview.html)
 
+## Articles:
+
+- [Article - Storage on Kubernetes: OpenEBS vs Rook (Ceph) vs Rancher Longhorn vs StorageOS vs Robin vs Portworx vs Linstor](https://vitobotta.com/2019/08/06/kubernetes-storage-openebs-rook-longhorn-storageos-robin-portworx/)
+
+- [Article - Increasing resilience in Kubernetes](https://www.elastic.co/blog/using-logstash-to-split-data-and-send-it-to-multiple-outputs)
+
+- [Article - Using Logstash to Split Data and Send it to Multiple Outputs](https://medium.com/kudos-engineering/increasing-resilience-in-kubernetes-b6ddc9fecf80)
+
+- [Article - K8s scheduling — deep dive](https://blog.usejournal.com/k8s-infrastructure-what-you-should-consider-1c01a2109e82)
+
 ## Tutorials:
 
 - [Tutorial - katacoda - Docker](https://www.katacoda.com/courses/docker)
@@ -29,6 +39,7 @@ The Cloud Native Computing Foundation builds sustainable ecosystems and fosters 
 
 - [Tutorial - GCP GKE workshop](https://codelabs.developers.google.com/codelabs/cloud-gke-workshop-v2/#0)
 
+- [Tutorial - Terraform Workshop repository](https://github.com/tikalk/terraform-101)
 
 ## Videos:
 

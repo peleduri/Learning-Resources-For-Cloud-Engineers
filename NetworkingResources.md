@@ -15,6 +15,15 @@
 
 - [Guide - Kubernetes Networking Guide for Beginners](https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-networking-guide-beginners.html)
 
+
+- [Tool - NGINX configuration generator](https://www.digitalocean.com/community/tools/nginx)
+
+## Articles:
+
+- [Article - Nginx : Security configuration tips](https://medium.com/@nbeguier/nginx-security-configuration-tips-557c35e0d75b)
+
+- [Article - Kubernetes Ingress Controllers](https://itnext.io/kubernetes-ingress-controllers-how-to-choose-the-right-one-part-1-41d3554978d2)
+
 ## Tutorials:
 
 ##### TODO: Find Tutorials about Networking
