@@ -1,6 +1,9 @@
 # Cloud Native Tools Resources
 
-- [CNCF Offical Site](https://www.cncf.io/)
+- [The Cloud Native Computing Foundation](https://www.cncf.io/)
+
+## What is CNCF?
+The Cloud Native Computing Foundation builds sustainable ecosystems and fosters communities to support the growth and health of cloud native open source software.
 
 ## Guides:
 
