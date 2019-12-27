@@ -1,7 +1,5 @@
 # Networking Resources
 
-- [CNCF Offical Site](https://www.cncf.io/)
-
 ## Guides:
 
 - [Guide - Understanding IP Addressing and CIDR Charts](https://www.ripe.net/about-us/press-centre/understanding-ip-addressing)
