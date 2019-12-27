@@ -57,7 +57,7 @@ The Cloud Native Computing Foundation builds sustainable ecosystems and fosters 
 
 - [Video - Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO](https://youtu.be/90kZRyPcRZw)
 
-- [Video - Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO](https://youtu.be/vQX5nokoqrQ)
+- [Video - Building Helm Charts From the Ground Up: An Introduction to Kubernetes [I] - Amy Chen, Heptio](https://youtu.be/vQX5nokoqrQ)
 
 - [Video - Keynote: Anatomy of a Production Kubernetes Outage - Oliver Beattie, Head of Engineering, Monzo Bank](https://youtu.be/OUYTNywPk-s)
 
